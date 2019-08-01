@@ -2,7 +2,6 @@
 """
 Little program for printing multiplication table
 """
-
 import multiplication
 
 def main():
